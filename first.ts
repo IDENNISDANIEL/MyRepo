@@ -1,1 +1,2 @@
-config.display('Hello')
+console.log('Hello')
+console.log('World')
